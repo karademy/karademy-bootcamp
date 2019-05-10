@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6b9bf6d1-b554-4a3e-84b8-5e1139e88151" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/time_tracking_app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/time_tracking_app/.gitignore" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -16,7 +17,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/voting_app/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
@@ -25,11 +26,20 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/time_tracking_app/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="302">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-line="22" selection-end-column="15" />
+              <caret selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -43,6 +53,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/voting_app/.gitignore" />
+        <option value="$PROJECT_DIR$/time_tracking_app/.gitignore" />
       </list>
     </option>
   </component>
@@ -64,6 +75,11 @@
             <path>
               <item name="Karademy-react" type="b2602c69:ProjectViewProjectNode" />
               <item name="Karademy-react" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Karademy-react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Karademy-react" type="462c0819:PsiDirectoryNode" />
+              <item name="time_tracking_app" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -107,11 +123,12 @@
       <workItem from="1557378600922" duration="469000" />
       <workItem from="1557470123552" duration="589000" />
       <workItem from="1557470898680" duration="22000" />
+      <workItem from="1557480549729" duration="54000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1080000" />
+    <option name="totallyTimeSpent" value="1134000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="0" width="1366" height="768" extended-state="6" />
@@ -153,7 +170,14 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-line="22" selection-end-column="15" />
+          <caret selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/time_tracking_app/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
