@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b9bf6d1-b554-4a3e-84b8-5e1139e88151" name="Default Changelist" comment="" />
+    <list default="true" id="6b9bf6d1-b554-4a3e-84b8-5e1139e88151" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -103,15 +105,17 @@
       <option name="presentableId" value="Default" />
       <updated>1557378599693</updated>
       <workItem from="1557378600922" duration="469000" />
-      <workItem from="1557470123552" duration="342000" />
+      <workItem from="1557470123552" duration="589000" />
+      <workItem from="1557470898680" duration="22000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="811000" />
+    <option name="totallyTimeSpent" value="1080000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="0" width="1366" height="768" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24944155" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -139,17 +143,17 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/App.js" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="22" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/voting_app/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="22" selection-end-column="15" />
         </state>
       </provider>
     </entry>
